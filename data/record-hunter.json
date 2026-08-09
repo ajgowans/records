@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-09T22:06:14.045542+00:00",
+  "generatedAt": "2026-08-09T23:47:25.278879+00:00",
   "source": {
-    "collection": "andrewgowans-collection-20260617-1031.csv",
+    "collection": "andrewgowans-collection-20260809-2303.csv",
     "wantlist": "andrewgowans-wantlist-20260623-0754.csv"
   },
   "collection": [
@@ -1000,6 +1000,20 @@
       "dateAdded": "2022-09-12"
     },
     {
+      "artist": "Akira Ishikawa & Count Buffaloes",
+      "album": "Uganda = ウガンダ (アフリカン・ロックの夜明け)",
+      "label": "Mr Bongo",
+      "catalogNumber": "MRBLP239",
+      "format": "LP, Album, RE, Box",
+      "year": "2022",
+      "discogsReleaseId": "24685475",
+      "thumb": "thumb/24685475.webp",
+      "display": "display/24685475.webp",
+      "discogsImageMissing": false,
+      "discogsFormats": "LP | Album | Reissue",
+      "dateAdded": "2026-06-27"
+    },
+    {
       "artist": "Akira Ito",
       "album": "やすらぎの道 心気・Japanesque",
       "label": "Bamboo (2)",
@@ -1124,6 +1138,20 @@
       "discogsImageMissing": false,
       "discogsFormats": "LP | Album | Reissue",
       "dateAdded": "2024-07-27"
+    },
+    {
+      "artist": "Alvin Lucier",
+      "album": "Bird And Person Dyning",
+      "label": "Dialogo",
+      "catalogNumber": "DIALP913",
+      "format": "LP, Ltd, RE, RM",
+      "year": "2021",
+      "discogsReleaseId": "20914732",
+      "thumb": "thumb/20914732.webp",
+      "display": "display/20914732.webp",
+      "discogsImageMissing": false,
+      "discogsFormats": "LP | Limited Edition | Reissue | Remastered",
+      "dateAdded": "2026-07-04"
     },
     {
       "artist": "Amanda Palmer & Edward Ka-Spel",
@@ -2054,7 +2082,7 @@
       "album": "Drukqs",
       "label": "Warp Records",
       "catalogNumber": "WARPLP92X",
-      "format": "2x12\", Album, Num, RTI + 2xLP + Box, Album, Ltd, N",
+      "format": "2x12\", RTI + 2xLP + Box, Album, Ltd, Num",
       "year": "2002",
       "discogsReleaseId": "325774",
       "thumb": "thumb/325774.webp",
@@ -6503,6 +6531,20 @@
     },
     {
       "artist": "Cabaret Voltaire",
+      "album": "But What Time Is It Really?",
+      "label": "MemeTune",
+      "catalogNumber": "MEME26VA10",
+      "format": "LP, Album, Ltd, Mag",
+      "year": "2026",
+      "discogsReleaseId": "37475193",
+      "thumb": "thumb/37475193.webp",
+      "display": "display/37475193.webp",
+      "discogsImageMissing": false,
+      "discogsFormats": "LP | Album | Limited Edition",
+      "dateAdded": "2026-06-17"
+    },
+    {
+      "artist": "Cabaret Voltaire",
       "album": "Extended Play",
       "label": "Rough Trade",
       "catalogNumber": "RT 003",
@@ -7165,7 +7207,7 @@
       "label": "Buddah Records, Buddah Records",
       "catalogNumber": "BDS 5001, BDS-5001",
       "format": "LP, Album, RE",
-      "year": "",
+      "year": "2001",
       "discogsReleaseId": "1417827",
       "thumb": "thumb/1417827.webp",
       "display": "display/1417827.webp",
@@ -8774,7 +8816,7 @@
       "album": "Only God Forgives (Original Motion Picture Soundtrack)",
       "label": "Gaumont",
       "catalogNumber": "WT BXBNJ",
-      "format": "12\", S/Sided, Etch",
+      "format": "12\", S/Sided, Etch, Ltd, 300",
       "year": "2014",
       "discogsReleaseId": "5643706",
       "thumb": "thumb/5643706.webp",
@@ -9260,6 +9302,20 @@
       "dateAdded": "2016-07-26"
     },
     {
+      "artist": "CoH / Dada 999",
+      "album": "Hunger",
+      "label": "Nouvelle Nicotine",
+      "catalogNumber": "OPIUM MMXIV-IV",
+      "format": "7\", Ltd, Num, Red",
+      "year": "2015",
+      "discogsReleaseId": "6772573",
+      "thumb": "thumb/6772573.webp",
+      "display": "display/6772573.webp",
+      "discogsImageMissing": false,
+      "discogsFormats": "7\" | 33 ⅓ RPM | Limited Edition | Numbered",
+      "dateAdded": "2017-02-03"
+    },
+    {
       "artist": "CoH Plays John Everall",
       "album": "CoH Plays Everall",
       "label": "Hallow Ground",
@@ -9272,20 +9328,6 @@
       "discogsImageMissing": false,
       "discogsFormats": "LP | Album | Limited Edition | Picture Disc",
       "dateAdded": "2017-11-09"
-    },
-    {
-      "artist": "CoH, Dada 999",
-      "album": "Hunger",
-      "label": "Nouvelle Nicotine",
-      "catalogNumber": "OPIUM MMXIV-IV",
-      "format": "7\", Ltd, Num, Red",
-      "year": "2015",
-      "discogsReleaseId": "6772573",
-      "thumb": "thumb/6772573.webp",
-      "display": "display/6772573.webp",
-      "discogsImageMissing": false,
-      "discogsFormats": "7\" | 33 ⅓ RPM | Limited Edition | Numbered",
-      "dateAdded": "2017-02-03"
     },
     {
       "artist": "Coil",
@@ -10009,9 +10051,9 @@
       "format": "LP, Ltd, Unofficial, Gol",
       "year": "2020",
       "discogsReleaseId": "15263840",
-      "thumb": "",
-      "display": "",
-      "discogsImageMissing": true,
+      "thumb": "thumb/15263840.webp",
+      "display": "display/15263840.webp",
+      "discogsImageMissing": false,
       "discogsFormats": "LP | Limited Edition | Unofficial Release | Stereo",
       "dateAdded": "2020-05-07"
     },
@@ -10843,6 +10885,20 @@
     },
     {
       "artist": "Craven Faults",
+      "album": "Bounds",
+      "label": "Leaf",
+      "catalogNumber": "BAY 140V",
+      "format": "LP, Album",
+      "year": "2024",
+      "discogsReleaseId": "32120574",
+      "thumb": "thumb/32120574.webp",
+      "display": "display/32120574.webp",
+      "discogsImageMissing": false,
+      "discogsFormats": "LP | Album",
+      "dateAdded": "2026-07-06"
+    },
+    {
+      "artist": "Craven Faults",
       "album": "Enclosures",
       "label": "Leaf, Leaf",
       "catalogNumber": "DOCK 73, DOCK 73G",
@@ -10910,6 +10966,20 @@
       "discogsImageMissing": false,
       "discogsFormats": "12\" | 33 ⅓ RPM | EP | Repress | Compilation | Limited Edition",
       "dateAdded": "2022-03-29"
+    },
+    {
+      "artist": "Craven Faults",
+      "album": "Sidings",
+      "label": "Leaf",
+      "catalogNumber": "BAY 143V",
+      "format": "2xLP, Album",
+      "year": "2026",
+      "discogsReleaseId": "36371542",
+      "thumb": "thumb/36371542.webp",
+      "display": "display/36371542.webp",
+      "discogsImageMissing": false,
+      "discogsFormats": "LP | Album | Stereo",
+      "dateAdded": "2026-07-06"
     },
     {
       "artist": "Craven Faults",
@@ -12834,7 +12904,7 @@
       "album": "Enter",
       "label": "Decision Records (2), Fantasy",
       "catalogNumber": "DEC-LP-1104",
-      "format": "2xLP, Album, Comp, RE",
+      "format": "2xLP, Album, Comp, RE, RM",
       "year": "2013",
       "discogsReleaseId": "5146221",
       "thumb": "thumb/5146221.webp",
@@ -15046,7 +15116,7 @@
       "album": "Again And Again!",
       "label": "Martial (2)",
       "catalogNumber": "Runa800",
-      "format": "2xLP, Dlx, Ltd, Unofficial",
+      "format": "2xLP, Dlx, Ltd, Num, Unofficial",
       "year": "2019",
       "discogsReleaseId": "13995081",
       "thumb": "thumb/13995081.webp",
@@ -20825,6 +20895,20 @@
     },
     {
       "artist": "Godspeed You Black Emperor!",
+      "album": "Slow Riot For New Zero Kanada E.P.",
+      "label": "Constellation",
+      "catalogNumber": "cst006",
+      "format": "12\", EP, RE, RP, 180",
+      "year": "",
+      "discogsReleaseId": "20492698",
+      "thumb": "thumb/20492698.webp",
+      "display": "display/20492698.webp",
+      "discogsImageMissing": false,
+      "discogsFormats": "12\" | 33 ⅓ RPM | 45 RPM | EP | Reissue | Repress",
+      "dateAdded": "2026-06-28"
+    },
+    {
+      "artist": "Godspeed You Black Emperor!",
       "album": "Yanqui U.X.O.",
       "label": "Constellation, Constellation",
       "catalogNumber": "cst 024, CST024-1",
@@ -22238,6 +22322,20 @@
       "dateAdded": "2009-08-20"
     },
     {
+      "artist": "Ibliss",
+      "album": "Supernova",
+      "label": "Wah Wah Records",
+      "catalogNumber": "LPS064",
+      "format": "LP, Album, Ltd, RE",
+      "year": "2009",
+      "discogsReleaseId": "1824751",
+      "thumb": "thumb/1824751.webp",
+      "display": "display/1824751.webp",
+      "discogsImageMissing": false,
+      "discogsFormats": "LP | Album | Limited Edition | Reissue",
+      "dateAdded": "2026-06-19"
+    },
+    {
       "artist": "Iggy Pop",
       "album": "Iggy & Ziggy - Cleveland '77",
       "label": "Cleopatra",
@@ -22788,8 +22886,8 @@
       "album": "Velvet Donkey",
       "label": "Virgin",
       "catalogNumber": "OVED 34",
-      "format": "LP, Album, RE",
-      "year": "",
+      "format": "LP, Album, RE, Gre",
+      "year": "1984",
       "discogsReleaseId": "2275704",
       "thumb": "thumb/2275704.webp",
       "display": "display/2275704.webp",
@@ -25862,6 +25960,34 @@
       "discogsImageMissing": false,
       "discogsFormats": "12\" | 33 ⅓ RPM | Maxi-Single | Record Store Day",
       "dateAdded": "2021-06-15"
+    },
+    {
+      "artist": "La Monte Young / Marian Zazeela",
+      "album": "31 VII 69 10:26 - 10:49 PM / 23 VIII 64 2:50:45 - 3:11 AM The Volga Delta",
+      "label": "Superior Viaduct",
+      "catalogNumber": "SV198",
+      "format": "LP, Album, RE",
+      "year": "2023",
+      "discogsReleaseId": "26531216",
+      "thumb": "thumb/26531216.webp",
+      "display": "display/26531216.webp",
+      "discogsImageMissing": false,
+      "discogsFormats": "LP | Album | Reissue",
+      "dateAdded": "2026-07-01"
+    },
+    {
+      "artist": "La Monte Young / Marian Zazeela - Theatre Of Eternal Music",
+      "album": "Dream House 78'17\"",
+      "label": "Superior Viaduct",
+      "catalogNumber": "SV199",
+      "format": "LP, Album, RE",
+      "year": "2024",
+      "discogsReleaseId": "30724847",
+      "thumb": "thumb/30724847.webp",
+      "display": "display/30724847.webp",
+      "discogsImageMissing": false,
+      "discogsFormats": "LP | Album | Reissue",
+      "dateAdded": "2026-07-01"
     },
     {
       "artist": "Lalalar",
@@ -29340,7 +29466,7 @@
       "album": "Lunchbox / The Family Jams",
       "label": "Not On Label (Marilyn Manson & The Spooky Kids)",
       "catalogNumber": "MM001",
-      "format": "LP, Unofficial",
+      "format": "LP, Comp, Unofficial",
       "year": "2024",
       "discogsReleaseId": "31350691",
       "thumb": "thumb/31350691.webp",
@@ -29786,6 +29912,20 @@
     {
       "artist": "Maurice Jarre, London Philharmonic Orchestra",
       "album": "Lawrence Of Arabia—Original Soundtrack Recording",
+      "label": "Colpix Records, Pye International, Pye International, Colpix Records",
+      "catalogNumber": "NPL 28023, NPL.28023",
+      "format": "LP, Album, Mono, Red",
+      "year": "1963",
+      "discogsReleaseId": "3220376",
+      "thumb": "thumb/3220376.webp",
+      "display": "display/3220376.webp",
+      "discogsImageMissing": false,
+      "discogsFormats": "LP | Album | Mono",
+      "dateAdded": "2018-09-09"
+    },
+    {
+      "artist": "Maurice Jarre, London Philharmonic Orchestra",
+      "album": "Lawrence Of Arabia—Original Soundtrack Recording",
       "label": "Pye Golden Guinea Records, Pye Golden Guinea Records",
       "catalogNumber": "GSGL 10389, GSGL.10389",
       "format": "LP, Album",
@@ -29795,20 +29935,6 @@
       "display": "display/3168650.webp",
       "discogsImageMissing": false,
       "discogsFormats": "LP | Album | Stereo",
-      "dateAdded": "2018-09-09"
-    },
-    {
-      "artist": "Maurice Jarre, London Philharmonic Orchestra",
-      "album": "Lawrence Of Arabia—Original Soundtrack Recording",
-      "label": "Pye International, Pye International, Colpix Records",
-      "catalogNumber": "NPL 28023, NPL.28023",
-      "format": "LP, Mono, Red",
-      "year": "1963",
-      "discogsReleaseId": "3220376",
-      "thumb": "thumb/3220376.webp",
-      "display": "display/3220376.webp",
-      "discogsImageMissing": false,
-      "discogsFormats": "LP | Album | Mono",
       "dateAdded": "2018-09-09"
     },
     {
@@ -30781,7 +30907,7 @@
       "artist": "Ministry",
       "album": "Chicago / Detroit 1982",
       "label": "Cleopatra",
-      "catalogNumber": "none",
+      "catalogNumber": "CLO4491",
       "format": "LP, Ltd, Red",
       "year": "2023",
       "discogsReleaseId": "29031562",
@@ -32307,7 +32433,7 @@
       "artist": "Mouse On Mars",
       "album": "Autoditacker",
       "label": "Thrill Jockey",
-      "catalogNumber": "thrill 045",
+      "catalogNumber": "thrill045",
       "format": "2xLP, Album",
       "year": "1997",
       "discogsReleaseId": "121219",
@@ -32978,8 +33104,8 @@
     {
       "artist": "New Order",
       "album": "Blue Monday",
-      "label": "Factory",
-      "catalogNumber": "FAC 73",
+      "label": "Factory, Factory",
+      "catalogNumber": "FAC 73, FAC SEVENTY THREE",
       "format": "12\", Single, RE, RM, 180",
       "year": "2020",
       "discogsReleaseId": "14822524",
@@ -34293,6 +34419,20 @@
     },
     {
       "artist": "Nine Inch Nails",
+      "album": "Tron Ares: Divergence",
+      "label": "The Null Corporation, Interscope Records",
+      "catalogNumber": "NULL 23, 00199957275880",
+      "format": "2xLP, 180",
+      "year": "2026",
+      "discogsReleaseId": "37546458",
+      "thumb": "thumb/37546458.webp",
+      "display": "display/37546458.webp",
+      "discogsImageMissing": false,
+      "discogsFormats": "LP",
+      "dateAdded": "2026-06-20"
+    },
+    {
+      "artist": "Nine Inch Nails",
       "album": "Tron: Ares (Original Motion Picture Soundtrack)",
       "label": "The Null Corporation, Walt Disney Records, Interscope Records",
       "catalogNumber": "NULL 22, 602478702389",
@@ -34657,7 +34797,7 @@
     },
     {
       "artist": "Nurse With Wound",
-      "album": "Alice The Goon (Funeral Music For Perez Prado)",
+      "album": "Alice The Goon / Funeral Music For Perez Prado",
       "label": "B.F.E Records",
       "catalogNumber": "BFE 075",
       "format": "LP, Ltd, RM",
@@ -35318,7 +35458,7 @@
       "album": "Rock'N'Roll Station Redux Extraction",
       "label": "United Dirter",
       "catalogNumber": "DPROMLP169",
-      "format": "LP",
+      "format": "LP, bla",
       "year": "2026",
       "discogsReleaseId": "37634517",
       "thumb": "thumb/37634517.webp",
@@ -36852,6 +36992,34 @@
       "discogsImageMissing": false,
       "discogsFormats": "LP | 45 RPM | Album | Limited Edition",
       "dateAdded": "2025-12-08"
+    },
+    {
+      "artist": "Perturbator",
+      "album": "Night Driving Avenger",
+      "label": "Blood Music (2)",
+      "catalogNumber": "BLOOD-143R",
+      "format": "12\", EP, Ltd, RP, Bla",
+      "year": "2024",
+      "discogsReleaseId": "34894700",
+      "thumb": "thumb/34894700.webp",
+      "display": "display/34894700.webp",
+      "discogsImageMissing": false,
+      "discogsFormats": "12\" | 45 RPM | EP | Limited Edition | Repress",
+      "dateAdded": "2026-08-09"
+    },
+    {
+      "artist": "Perturbator",
+      "album": "Nocturne City",
+      "label": "Blood Music (2)",
+      "catalogNumber": "BLOOD-144R",
+      "format": "12\", EP, Ltd, RM, RP, Bla",
+      "year": "2024",
+      "discogsReleaseId": "34894205",
+      "thumb": "thumb/34894205.webp",
+      "display": "display/34894205.webp",
+      "discogsImageMissing": false,
+      "discogsFormats": "12\" | 45 RPM | EP | Limited Edition | Remastered | Repress",
+      "dateAdded": "2026-08-09"
     },
     {
       "artist": "Pet Shop Boys",
@@ -39015,7 +39183,7 @@
       "label": "Island Records",
       "catalogNumber": "2WX 3288",
       "format": "2xLP, Album, Qua",
-      "year": "1979",
+      "year": "1980",
       "discogsReleaseId": "315377",
       "thumb": "thumb/315377.webp",
       "display": "display/315377.webp",
@@ -39302,6 +39470,20 @@
       "discogsImageMissing": false,
       "discogsFormats": "10\" | 33 ⅓ RPM | Limited Edition",
       "dateAdded": "2022-11-06"
+    },
+    {
+      "artist": "Pye Corner Audio",
+      "album": "More Songs About The Sun",
+      "label": "Sonic Cathedral",
+      "catalogNumber": "SCR305LPI",
+      "format": "LP, Album, Ltd, Sum",
+      "year": "2026",
+      "discogsReleaseId": "37671138",
+      "thumb": "thumb/37671138.webp",
+      "display": "display/37671138.webp",
+      "discogsImageMissing": false,
+      "discogsFormats": "LP | Album | Limited Edition",
+      "dateAdded": "2026-06-20"
     },
     {
       "artist": "Pye Corner Audio",
@@ -43678,11 +43860,11 @@
       "catalogNumber": "dgc 21634, dgcd 21634",
       "format": "12\", EP",
       "year": "1991",
-      "discogsReleaseId": "1191300",
-      "thumb": "",
-      "display": "",
+      "discogsReleaseId": "388307",
+      "thumb": "thumb/388307.webp",
+      "display": "display/388307.webp",
       "discogsImageMissing": false,
-      "discogsFormats": "",
+      "discogsFormats": "12\" | 33 ⅓ RPM | EP | Stereo",
       "dateAdded": "2022-09-10"
     },
     {
@@ -47260,13 +47442,13 @@
       "album": "Give It Back!",
       "label": "A Records (4)",
       "catalogNumber": "AUK006LP",
-      "format": "2xLP, Album, RE, RM, RP, Gat",
-      "year": "2022",
-      "discogsReleaseId": "22089133",
-      "thumb": "",
-      "display": "",
+      "format": "2xLP, Album, RE, RM, RP",
+      "year": "2019",
+      "discogsReleaseId": "14273869",
+      "thumb": "thumb/14273869.webp",
+      "display": "display/14273869.webp",
       "discogsImageMissing": false,
-      "discogsFormats": "",
+      "discogsFormats": "LP | Album | Reissue | Remastered | Repress",
       "dateAdded": "2022-12-19"
     },
     {
@@ -47736,7 +47918,7 @@
       "album": "The Cosmic Jokers",
       "label": "Klimt Records",
       "catalogNumber": "MJJ325",
-      "format": "LP, Album, Ltd, RE, Yel",
+      "format": "LP, Album, Ltd, RE, Unofficial, Yel",
       "year": "2016",
       "discogsReleaseId": "8853922",
       "thumb": "thumb/8853922.webp",
@@ -47806,7 +47988,7 @@
       "album": "Boys Don't Cry (New Voice • Club Mix)",
       "label": "Fiction Records",
       "catalogNumber": "FICS X 24",
-      "format": "12\", Single",
+      "format": "12\", Single, Top",
       "year": "1986",
       "discogsReleaseId": "592490",
       "thumb": "thumb/592490.webp",
@@ -48892,6 +49074,34 @@
       "discogsImageMissing": false,
       "discogsFormats": "7\" | Single",
       "dateAdded": "2013-05-02"
+    },
+    {
+      "artist": "The Fall",
+      "album": "I Wake Up In The City",
+      "label": "Cog Sinister",
+      "catalogNumber": "COGGZ153412",
+      "format": "12\", Single, Ltd, Whi",
+      "year": "2026",
+      "discogsReleaseId": "37875096",
+      "thumb": "thumb/37875096.webp",
+      "display": "display/37875096.webp",
+      "discogsImageMissing": false,
+      "discogsFormats": "12\" | 45 RPM | Single | Limited Edition | Stereo",
+      "dateAdded": "2026-07-22"
+    },
+    {
+      "artist": "The Fall",
+      "album": "I Wake Up In The City",
+      "label": "Cog Sinister",
+      "catalogNumber": "COGGZ1537",
+      "format": "7\", Single, Ltd, RE, RM, Whi",
+      "year": "2026",
+      "discogsReleaseId": "37896084",
+      "thumb": "thumb/37896084.webp",
+      "display": "display/37896084.webp",
+      "discogsImageMissing": false,
+      "discogsFormats": "7\" | 45 RPM | Single | Limited Edition | Reissue | Remastered | Stereo",
+      "dateAdded": "2026-07-22"
     },
     {
       "artist": "The Fall",
@@ -50424,7 +50634,7 @@
       "album": "Travelogue",
       "label": "Virgin",
       "catalogNumber": "OVED 115",
-      "format": "LP, Album, RE",
+      "format": "LP, Album, RE, Gre",
       "year": "1985",
       "discogsReleaseId": "27706",
       "thumb": "thumb/27706.webp",
@@ -50563,7 +50773,7 @@
       "artist": "The Jesus And Mary Chain",
       "album": "Psychocandy",
       "label": "Blanco Y Negro, Blanco Y Negro, Blanco Y Negro",
-      "catalogNumber": "BYN 7, 240 790-1, BYN7",
+      "catalogNumber": "BYN 7, BYN7, 240 790-1",
       "format": "LP, Album",
       "year": "1985",
       "discogsReleaseId": "369883",
@@ -51026,7 +51236,7 @@
       "album": "3 A.M. Eternal (Live At The S.S.L.)",
       "label": "KLF Communications, KLF Communications",
       "catalogNumber": "KLF005X, KLF 005X",
-      "format": "12\"",
+      "format": "12\", Single",
       "year": "1991",
       "discogsReleaseId": "71142",
       "thumb": "thumb/71142.webp",
@@ -52588,6 +52798,20 @@
       "discogsImageMissing": false,
       "discogsFormats": "7\" | 33 ⅓ RPM",
       "dateAdded": "2023-04-28"
+    },
+    {
+      "artist": "The Pressure Company",
+      "album": "Live In Sheffield 19 Jan 82",
+      "label": "Paradox",
+      "catalogNumber": "SOLIDARITY No. 1",
+      "format": "LP, TP, W/Lbl, Wit",
+      "year": "1982",
+      "discogsReleaseId": "4251397",
+      "thumb": "thumb/4251397.webp",
+      "display": "display/4251397.webp",
+      "discogsImageMissing": false,
+      "discogsFormats": "LP | Test Pressing | White Label",
+      "dateAdded": "2026-06-17"
     },
     {
       "artist": "The Primevals",
@@ -54722,7 +54946,7 @@
       "album": "Hatful Of Hollow",
       "label": "Rough Trade",
       "catalogNumber": "ROUGH 76",
-      "format": "LP, Comp, Ast",
+      "format": "LP, Album, Comp, Ast",
       "year": "1984",
       "discogsReleaseId": "382135",
       "thumb": "thumb/382135.webp",
@@ -57183,6 +57407,20 @@
     },
     {
       "artist": "Tom Waits",
+      "album": "Get Behind The Mule (Spiritual)",
+      "label": "Anti-",
+      "catalogNumber": "6547-7",
+      "format": "7\", RSD",
+      "year": "2025",
+      "discogsReleaseId": "33676458",
+      "thumb": "thumb/33676458.webp",
+      "display": "display/33676458.webp",
+      "discogsImageMissing": false,
+      "discogsFormats": "7\" | 45 RPM | Record Store Day",
+      "dateAdded": "2026-06-20"
+    },
+    {
+      "artist": "Tom Waits",
       "album": "Glitter And Doom Live",
       "label": "Anti-",
       "catalogNumber": "7053-3",
@@ -57576,8 +57814,8 @@
     {
       "artist": "Toshi Ichiyanagi / Maki Ishii",
       "album": "Music For Living Process / Cho-Etsu",
-      "label": "Edition RZ",
-      "catalogNumber": "ED. RZ 1008",
+      "label": "Edition RZ, Edition RZ",
+      "catalogNumber": "ED. RZ 1008, ed. RZ 1008",
       "format": "LP",
       "year": "1991",
       "discogsReleaseId": "497265",
@@ -58720,6 +58958,20 @@
       "discogsImageMissing": false,
       "discogsFormats": "LP | Album | Reissue",
       "dateAdded": "2021-07-06"
+    },
+    {
+      "artist": "Vanilla Ice",
+      "album": "To The Extreme",
+      "label": "SBK Records, SBK Records",
+      "catalogNumber": "SBKLP9, SBKLP 9",
+      "format": "LP, Album",
+      "year": "1990",
+      "discogsReleaseId": "2652941",
+      "thumb": "thumb/2652941.webp",
+      "display": "display/2652941.webp",
+      "discogsImageMissing": false,
+      "discogsFormats": "LP | Album",
+      "dateAdded": "2026-07-01"
     },
     {
       "artist": "Various",
@@ -61872,6 +62124,20 @@
       "dateAdded": "2022-05-21"
     },
     {
+      "artist": "Yellow Magic Orchestra",
+      "album": "Yellow Magic Orchestra USA & Yellow Magic Orchestra",
+      "label": "Music On Vinyl, Alfa, Epic",
+      "catalogNumber": "MOVLP1466",
+      "format": "2xLP, Comp, RE, 180",
+      "year": "2015",
+      "discogsReleaseId": "9929465",
+      "thumb": "thumb/9929465.webp",
+      "display": "display/9929465.webp",
+      "discogsImageMissing": false,
+      "discogsFormats": "LP | Compilation | Reissue",
+      "dateAdded": "2026-08-09"
+    },
+    {
       "artist": "Yoshitaka Azuma",
       "album": "Panzer Dragoon",
       "label": "Data Discs",
@@ -62296,7 +62562,7 @@
       "album": "Loh Land",
       "label": "Vinyl-on-demand",
       "catalogNumber": "VOD155.13/13BONUS7",
-      "format": "LP, Ltd, RE, RM + 7\", Ltd, RM, Cle",
+      "format": "LP + 7\", Cle + Album, Ltd, RE, RM",
       "year": "2019",
       "discogsReleaseId": "14117192",
       "thumb": "thumb/14117192.webp",
@@ -65094,41 +65360,6 @@
       }
     },
     {
-      "artist": "Ibliss",
-      "album": "Supernova",
-      "priority": "Medium",
-      "category": "Krautrock",
-      "source": "Curated",
-      "budget": null,
-      "priceWatch": {
-        "total": 31.09,
-        "price": 31.09,
-        "postage": 0.0,
-        "date": "2026-06-19",
-        "title": "Supernova by Ibliss (Vinyl 2022)",
-        "seller": "",
-        "condition": "",
-        "url": "https://www.ebay.co.uk/itm/198224572614?_skw=Ibliss+Supernova+LP+vinyl&hash=item2e271af0c6:g:6hoAAeSwjmJpw~dZ"
-      },
-      "underBudget": false,
-      "discogsReleaseId": "",
-      "thumb": "",
-      "display": "",
-      "links": {
-        "eBaySearchURL": "https://www.ebay.co.uk/sch/i.html?_nkw=Ibliss%20Supernova%20LP%20vinyl&_sacat=11233&_sop=15&LH_BIN=1",
-        "DiscogsSearchURL": "https://www.discogs.com/sell/list?q=Ibliss%20Supernova%20LP%20vinyl&format_exact=Vinyl&ships_from=United+Kingdom&sort=price%2Casc",
-        "JunoSearchURL": "https://www.juno.co.uk/search/?q%5Ball%5D%5B%5D=Ibliss%20Supernova%20LP%20vinyl",
-        "NormanSearchURL": "https://www.normanrecords.com/search?q=Ibliss%20Supernova%20LP%20vinyl",
-        "BoomkatSearchURL": "https://boomkat.com/search?q=Ibliss%20Supernova%20LP%20vinyl",
-        "HonestJonsSearchURL": "https://honestjons.com/shop/search/Ibliss%20Supernova%20LP%20vinyl",
-        "SoundsOfTheUniverseSearchURL": "https://soundsoftheuniverse.com/search?q=Ibliss%20Supernova%20LP%20vinyl",
-        "StrangerThanParadiseSearchURL": "https://www.strangerthanparadiserecords.com/search?q=Ibliss%20Supernova%20LP%20vinyl",
-        "BleepSearchURL": "https://bleep.com/search/query?q=Ibliss%20Supernova%20LP%20vinyl",
-        "RoughTradeSearchURL": "https://www.roughtrade.com/en-gb/search?q=Ibliss%20Supernova%20LP%20vinyl",
-        "ResidentSearchURL": "https://www.resident-music.com/search&keyword=Ibliss%20Supernova%20LP%20vinyl"
-      }
-    },
-    {
       "artist": "Klaus Schulze",
       "album": "Cyborg",
       "priority": "Medium",
@@ -65979,9 +66210,9 @@
       "id": "crack_in_the_cosmic_egg_top100",
       "name": "Crack In The Cosmic Egg Top100",
       "total": 100,
-      "owned": 47,
+      "owned": 48,
       "pending": 0,
-      "missing": 53,
+      "missing": 52,
       "items": [
         {
           "artist": "Agitation Free",
@@ -66948,7 +67179,7 @@
           "album": "Supernova",
           "year": "",
           "position": "49",
-          "status": "Missing",
+          "status": "Owned on Vinyl",
           "links": {
             "eBaySearchURL": "https://www.ebay.co.uk/sch/i.html?_nkw=Ibliss%20Supernova%20LP%20vinyl&_sacat=11233&_sop=15&LH_BIN=1",
             "DiscogsSearchURL": "https://www.discogs.com/sell/list?q=Ibliss%20Supernova%20LP%20vinyl&format_exact=Vinyl&ships_from=United+Kingdom&sort=price%2Casc",
@@ -70530,19 +70761,19 @@
     "formats": [
       [
         "LP",
-        2080
+        2089
       ],
       [
         "12\"",
-        745
+        749
       ],
       [
         "7\"",
-        632
+        634
       ],
       [
         "2xLP",
-        589
+        592
       ],
       [
         "10\"",
@@ -70580,27 +70811,27 @@
     "decades": [
       [
         "2010s",
-        1421
+        1423
       ],
       [
         "1980s",
-        870
+        873
       ],
       [
         "2020s",
-        698
+        711
       ],
       [
         "2000s",
-        598
+        600
       ],
       [
         "1990s",
-        504
+        505
       ],
       [
         "1970s",
-        232
+        231
       ],
       [
         "1960s",
@@ -70680,7 +70911,7 @@
       ],
       [
         "The Fall",
-        126
+        128
       ],
       [
         "David Bowie",
@@ -70737,176 +70968,475 @@
     ],
     "recent": [
       {
-        "artist": "Nurse With Wound",
-        "album": "Rock'N'Roll Station Redux Extraction",
-        "label": "United Dirter",
-        "catalogNumber": "DPROMLP169",
-        "format": "LP",
-        "year": "2026",
-        "discogsReleaseId": "37634517",
-        "thumb": "thumb/37634517.webp",
-        "display": "display/37634517.webp",
+        "artist": "Perturbator",
+        "album": "Night Driving Avenger",
+        "label": "Blood Music (2)",
+        "catalogNumber": "BLOOD-143R",
+        "format": "12\", EP, Ltd, RP, Bla",
+        "year": "2024",
+        "discogsReleaseId": "34894700",
+        "thumb": "thumb/34894700.webp",
+        "display": "display/34894700.webp",
         "discogsImageMissing": false,
-        "discogsFormats": "LP",
-        "dateAdded": "2026-06-17"
+        "discogsFormats": "12\" | 45 RPM | EP | Limited Edition | Repress",
+        "dateAdded": "2026-08-09"
       },
       {
-        "artist": "Cabaret Voltaire",
-        "album": "Red Mecca",
-        "label": "Mute, The Grey Area, Mute, The Grey Area",
-        "catalogNumber": "cabs3lp, CABS3CD",
-        "format": "LP, Album, RM, 180 + CD, Album + RE",
-        "year": "2013",
-        "discogsReleaseId": "4775027",
-        "thumb": "thumb/4775027.webp",
-        "display": "display/4775027.webp",
+        "artist": "Perturbator",
+        "album": "Nocturne City",
+        "label": "Blood Music (2)",
+        "catalogNumber": "BLOOD-144R",
+        "format": "12\", EP, Ltd, RM, RP, Bla",
+        "year": "2024",
+        "discogsReleaseId": "34894205",
+        "thumb": "thumb/34894205.webp",
+        "display": "display/34894205.webp",
         "discogsImageMissing": false,
-        "discogsFormats": "LP | Album | Remastered | Reissue",
-        "dateAdded": "2026-06-15"
+        "discogsFormats": "12\" | 45 RPM | EP | Limited Edition | Remastered | Repress",
+        "dateAdded": "2026-08-09"
       },
       {
-        "artist": "Edward Ka-Spel",
-        "album": "A Monument To Wasted Tears",
-        "label": "Not On Label (Edward Ka-Spel Self-released)",
-        "catalogNumber": "none",
-        "format": "2xLP, Ltd",
-        "year": "2026",
-        "discogsReleaseId": "37620318",
-        "thumb": "thumb/37620318.webp",
-        "display": "display/37620318.webp",
+        "artist": "Yellow Magic Orchestra",
+        "album": "Yellow Magic Orchestra USA & Yellow Magic Orchestra",
+        "label": "Music On Vinyl, Alfa, Epic",
+        "catalogNumber": "MOVLP1466",
+        "format": "2xLP, Comp, RE, 180",
+        "year": "2015",
+        "discogsReleaseId": "9929465",
+        "thumb": "thumb/9929465.webp",
+        "display": "display/9929465.webp",
         "discogsImageMissing": false,
-        "discogsFormats": "LP | Limited Edition",
-        "dateAdded": "2026-06-15"
-      },
-      {
-        "artist": "Cabaret Voltaire",
-        "album": "Radiation",
-        "label": "Room On Fire",
-        "catalogNumber": "ROOM199",
-        "format": "LP, Comp, RE, Unofficial",
-        "year": "2026",
-        "discogsReleaseId": "36343294",
-        "thumb": "thumb/36343294.webp",
-        "display": "display/36343294.webp",
-        "discogsImageMissing": false,
-        "discogsFormats": "LP | Compilation | Reissue | Unofficial Release",
-        "dateAdded": "2026-06-13"
-      },
-      {
-        "artist": "Marilyn Manson",
-        "album": "In The Air Tonight",
-        "label": "Nuclear Blast Records",
-        "catalogNumber": "NB 7432-3",
-        "format": "12\", S/Sided, Single, Ltd, Pic",
-        "year": "2025",
-        "discogsReleaseId": "35139581",
-        "thumb": "thumb/35139581.webp",
-        "display": "display/35139581.webp",
-        "discogsImageMissing": false,
-        "discogsFormats": "12\" | 45 RPM | Single Sided | Single | Limited Edition | Picture Disc | Stereo",
-        "dateAdded": "2026-06-12"
-      },
-      {
-        "artist": "Cabaret Voltaire",
-        "album": "Mix-Up",
-        "label": "Rough Trade",
-        "catalogNumber": "ROUGH 4",
-        "format": "LP, Album, RP, All",
-        "year": "",
-        "discogsReleaseId": "10166579",
-        "thumb": "thumb/10166579.webp",
-        "display": "display/10166579.webp",
-        "discogsImageMissing": false,
-        "discogsFormats": "LP | Album | Repress",
-        "dateAdded": "2026-06-11"
-      },
-      {
-        "artist": "Cabaret Voltaire",
-        "album": "The Crackdown",
-        "label": "Virgin, Virgin, Some Bizzare, Some Bizzare",
-        "catalogNumber": "CV 1, CV DV 1",
-        "format": "LP, Album + 12\", EP + Ltd",
-        "year": "1983",
-        "discogsReleaseId": "111674",
-        "thumb": "thumb/111674.webp",
-        "display": "display/111674.webp",
-        "discogsImageMissing": false,
-        "discogsFormats": "LP | Album | 12\" | 45 RPM | EP | Limited Edition",
-        "dateAdded": "2026-06-11"
-      },
-      {
-        "artist": "Tokyo Kid Brothers",
-        "album": "The Golden Bat",
-        "label": "Victor",
-        "catalogNumber": "VIH-6007",
-        "format": "LP, Album",
-        "year": "1977",
-        "discogsReleaseId": "11011466",
-        "thumb": "thumb/11011466.webp",
-        "display": "display/11011466.webp",
-        "discogsImageMissing": false,
-        "discogsFormats": "LP | Album | Stereo",
-        "dateAdded": "2026-06-10"
-      },
-      {
-        "artist": "Cabaret Voltaire",
-        "album": "Micro-Phonies",
-        "label": "Virgin, Some Bizzare",
-        "catalogNumber": "CV 2",
-        "format": "LP, Album",
-        "year": "1984",
-        "discogsReleaseId": "53058",
-        "thumb": "thumb/53058.webp",
-        "display": "display/53058.webp",
-        "discogsImageMissing": false,
-        "discogsFormats": "LP | Album",
-        "dateAdded": "2026-06-09"
-      },
-      {
-        "artist": "Cabaret Voltaire",
-        "album": "Nag Nag Nag (Live)",
-        "label": "Electronic Sound",
-        "catalogNumber": "ES7135",
-        "format": "7\", Ltd, Gre",
-        "year": "2026",
-        "discogsReleaseId": "36750730",
-        "thumb": "thumb/36750730.webp",
-        "display": "display/36750730.webp",
-        "discogsImageMissing": false,
-        "discogsFormats": "7\" | 45 RPM | Limited Edition",
-        "dateAdded": "2026-06-09"
-      },
-      {
-        "artist": "Fifty Foot Hose",
-        "album": "Cauldron",
-        "label": "Aguirre Records",
-        "catalogNumber": "ZORN48",
-        "format": "LP, Album, Ltd, RE",
-        "year": "2017",
-        "discogsReleaseId": "10858734",
-        "thumb": "thumb/10858734.webp",
-        "display": "display/10858734.webp",
-        "discogsImageMissing": false,
-        "discogsFormats": "LP | Album | Limited Edition | Reissue",
-        "dateAdded": "2026-06-09"
+        "discogsFormats": "LP | Compilation | Reissue",
+        "dateAdded": "2026-08-09"
       },
       {
         "artist": "The Fall",
-        "album": "Singles Live Vol. Two 1980-83",
-        "label": "Popstock (2)",
-        "catalogNumber": "POP004V",
-        "format": "LP, Album, Ltd, Yel",
+        "album": "I Wake Up In The City",
+        "label": "Cog Sinister",
+        "catalogNumber": "COGGZ153412",
+        "format": "12\", Single, Ltd, Whi",
         "year": "2026",
-        "discogsReleaseId": "37475070",
-        "thumb": "thumb/37475070.webp",
-        "display": "display/37475070.webp",
+        "discogsReleaseId": "37875096",
+        "thumb": "thumb/37875096.webp",
+        "display": "display/37875096.webp",
         "discogsImageMissing": false,
-        "discogsFormats": "LP | Album | Limited Edition",
-        "dateAdded": "2026-06-06"
+        "discogsFormats": "12\" | 45 RPM | Single | Limited Edition | Stereo",
+        "dateAdded": "2026-07-22"
+      },
+      {
+        "artist": "The Fall",
+        "album": "I Wake Up In The City",
+        "label": "Cog Sinister",
+        "catalogNumber": "COGGZ1537",
+        "format": "7\", Single, Ltd, RE, RM, Whi",
+        "year": "2026",
+        "discogsReleaseId": "37896084",
+        "thumb": "thumb/37896084.webp",
+        "display": "display/37896084.webp",
+        "discogsImageMissing": false,
+        "discogsFormats": "7\" | 45 RPM | Single | Limited Edition | Reissue | Remastered | Stereo",
+        "dateAdded": "2026-07-22"
+      },
+      {
+        "artist": "Craven Faults",
+        "album": "Bounds",
+        "label": "Leaf",
+        "catalogNumber": "BAY 140V",
+        "format": "LP, Album",
+        "year": "2024",
+        "discogsReleaseId": "32120574",
+        "thumb": "thumb/32120574.webp",
+        "display": "display/32120574.webp",
+        "discogsImageMissing": false,
+        "discogsFormats": "LP | Album",
+        "dateAdded": "2026-07-06"
+      },
+      {
+        "artist": "Craven Faults",
+        "album": "Sidings",
+        "label": "Leaf",
+        "catalogNumber": "BAY 143V",
+        "format": "2xLP, Album",
+        "year": "2026",
+        "discogsReleaseId": "36371542",
+        "thumb": "thumb/36371542.webp",
+        "display": "display/36371542.webp",
+        "discogsImageMissing": false,
+        "discogsFormats": "LP | Album | Stereo",
+        "dateAdded": "2026-07-06"
+      },
+      {
+        "artist": "Alvin Lucier",
+        "album": "Bird And Person Dyning",
+        "label": "Dialogo",
+        "catalogNumber": "DIALP913",
+        "format": "LP, Ltd, RE, RM",
+        "year": "2021",
+        "discogsReleaseId": "20914732",
+        "thumb": "thumb/20914732.webp",
+        "display": "display/20914732.webp",
+        "discogsImageMissing": false,
+        "discogsFormats": "LP | Limited Edition | Reissue | Remastered",
+        "dateAdded": "2026-07-04"
+      },
+      {
+        "artist": "La Monte Young / Marian Zazeela",
+        "album": "31 VII 69 10:26 - 10:49 PM / 23 VIII 64 2:50:45 - 3:11 AM The Volga Delta",
+        "label": "Superior Viaduct",
+        "catalogNumber": "SV198",
+        "format": "LP, Album, RE",
+        "year": "2023",
+        "discogsReleaseId": "26531216",
+        "thumb": "thumb/26531216.webp",
+        "display": "display/26531216.webp",
+        "discogsImageMissing": false,
+        "discogsFormats": "LP | Album | Reissue",
+        "dateAdded": "2026-07-01"
+      },
+      {
+        "artist": "La Monte Young / Marian Zazeela - Theatre Of Eternal Music",
+        "album": "Dream House 78'17\"",
+        "label": "Superior Viaduct",
+        "catalogNumber": "SV199",
+        "format": "LP, Album, RE",
+        "year": "2024",
+        "discogsReleaseId": "30724847",
+        "thumb": "thumb/30724847.webp",
+        "display": "display/30724847.webp",
+        "discogsImageMissing": false,
+        "discogsFormats": "LP | Album | Reissue",
+        "dateAdded": "2026-07-01"
+      },
+      {
+        "artist": "Vanilla Ice",
+        "album": "To The Extreme",
+        "label": "SBK Records, SBK Records",
+        "catalogNumber": "SBKLP9, SBKLP 9",
+        "format": "LP, Album",
+        "year": "1990",
+        "discogsReleaseId": "2652941",
+        "thumb": "thumb/2652941.webp",
+        "display": "display/2652941.webp",
+        "discogsImageMissing": false,
+        "discogsFormats": "LP | Album",
+        "dateAdded": "2026-07-01"
+      },
+      {
+        "artist": "Godspeed You Black Emperor!",
+        "album": "Slow Riot For New Zero Kanada E.P.",
+        "label": "Constellation",
+        "catalogNumber": "cst006",
+        "format": "12\", EP, RE, RP, 180",
+        "year": "",
+        "discogsReleaseId": "20492698",
+        "thumb": "thumb/20492698.webp",
+        "display": "display/20492698.webp",
+        "discogsImageMissing": false,
+        "discogsFormats": "12\" | 33 ⅓ RPM | 45 RPM | EP | Reissue | Repress",
+        "dateAdded": "2026-06-28"
       }
     ]
   },
   "artistAliases": {
+    "Aidan Moffat": [
+      "Aidan Moffat",
+      "Lucky Pierre",
+      "Nyx Nótt"
+    ],
+    "Anima": [
+      "Anima",
+      "Anima-Sound"
+    ],
+    "Anima-Sound": [
+      "Anima",
+      "Anima-Sound"
+    ],
+    "Aphex Twin": [
+      "Aphex Twin",
+      "Caustic Window",
+      "Polygon Window",
+      "Power-Pill",
+      "The Tuss"
+    ],
+    "Ash Ra Tempel": [
+      "Ash Ra Tempel",
+      "Ashra"
+    ],
+    "Ashra": [
+      "Ash Ra Tempel",
+      "Ashra"
+    ],
+    "Blues Creation": [
+      "Blues Creation",
+      "Creation (6)"
+    ],
+    "Bokaj Retsiem": [
+      "Bokaj Retsiem",
+      "Hell Preachers Inc."
+    ],
+    "Cabaret Voltaire": [
+      "Cabaret Voltaire",
+      "The Pressure Company"
+    ],
+    "Can": [
+      "Can",
+      "Inner Space (3)"
+    ],
+    "Carter Tutti": [
+      "Carter Tutti",
+      "Chris & Cosey",
+      "CTI"
+    ],
+    "Caustic Window": [
+      "Aphex Twin",
+      "Caustic Window",
+      "Polygon Window",
+      "Power-Pill",
+      "The Tuss"
+    ],
+    "Chillum (2)": [
+      "Chillum (2)",
+      "Second Hand"
+    ],
+    "Chris & Cosey": [
+      "Carter Tutti",
+      "Chris & Cosey",
+      "CTI"
+    ],
+    "Chrystal Belle Scrodd": [
+      "Chrystal Belle Scrodd",
+      "Diana Rogerson"
+    ],
+    "Ciccone Youth": [
+      "Ciccone Youth",
+      "Sonic Youth"
+    ],
+    "Coil": [
+      "Coil",
+      "ELpH",
+      "Time Machines"
+    ],
+    "Creation (6)": [
+      "Blues Creation",
+      "Creation (6)"
+    ],
+    "CTI": [
+      "Carter Tutti",
+      "Chris & Cosey",
+      "CTI"
+    ],
+    "Cupol": [
+      "Cupol",
+      "Dome"
+    ],
+    "CV[ev]": [
+      "CV[ev]",
+      "V/Vm"
+    ],
+    "Diana Rogerson": [
+      "Chrystal Belle Scrodd",
+      "Diana Rogerson"
+    ],
+    "Dome": [
+      "Cupol",
+      "Dome"
+    ],
+    "East India Youth": [
+      "East India Youth",
+      "William Doyle"
+    ],
+    "ELpH": [
+      "Coil",
+      "ELpH",
+      "Time Machines"
+    ],
+    "Fad Gadget": [
+      "Fad Gadget",
+      "Frank Tovey"
+    ],
+    "Flame 1": [
+      "Flame 1",
+      "Flame 2"
+    ],
+    "Flame 2": [
+      "Flame 1",
+      "Flame 2"
+    ],
+    "Frank Tovey": [
+      "Fad Gadget",
+      "Frank Tovey"
+    ],
+    "Gyllensköld, Geijerstam And Friends": [
+      "Gyllensköld, Geijerstam And Friends",
+      "Nurse With Wound"
+    ],
+    "Hell Preachers Inc.": [
+      "Bokaj Retsiem",
+      "Hell Preachers Inc."
+    ],
+    "Hilt": [
+      "Hilt",
+      "The Flu (5)"
+    ],
+    "Human Don't Be Angry": [
+      "Human Don't Be Angry",
+      "Malcolm Middleton"
+    ],
+    "Inner Space (3)": [
+      "Can",
+      "Inner Space (3)"
+    ],
+    "International Harvester": [
+      "International Harvester",
+      "Pärson Sound"
+    ],
+    "Joeboy": [
+      "Joeboy",
+      "Tuxedomoon"
+    ],
+    "Joy Division": [
+      "Joy Division",
+      "Warsaw (3)"
+    ],
+    "Lucky Pierre": [
+      "Aidan Moffat",
+      "Lucky Pierre",
+      "Nyx Nótt"
+    ],
+    "Macintosh Plus": [
+      "Macintosh Plus",
+      "New Dreams Ltd.",
+      "Sacred Tapestry"
+    ],
+    "Malcolm Middleton": [
+      "Human Don't Be Angry",
+      "Malcolm Middleton"
+    ],
+    "Marilyn Manson": [
+      "Marilyn Manson",
+      "Marilyn Manson & The Spooky Kids"
+    ],
+    "Marilyn Manson & The Spooky Kids": [
+      "Marilyn Manson",
+      "Marilyn Manson & The Spooky Kids"
+    ],
+    "Martin Jenkins": [
+      "Martin Jenkins",
+      "Pye Corner Audio",
+      "The Head Technician",
+      "The House In The Woods"
+    ],
+    "Maurizio Bianchi": [
+      "Maurizio Bianchi",
+      "Sacher-Pelz"
+    ],
+    "Michael Cashmore": [
+      "Michael Cashmore",
+      "Nature And Organisation"
+    ],
+    "Moondog (2)": [
+      "Moondog (2)",
+      "Moondog And His Honking Geese"
+    ],
+    "Moondog And His Honking Geese": [
+      "Moondog (2)",
+      "Moondog And His Honking Geese"
+    ],
+    "Nature And Organisation": [
+      "Michael Cashmore",
+      "Nature And Organisation"
+    ],
+    "New Dreams Ltd.": [
+      "Macintosh Plus",
+      "New Dreams Ltd.",
+      "Sacred Tapestry"
+    ],
+    "Nurse With Wound": [
+      "Gyllensköld, Geijerstam And Friends",
+      "Nurse With Wound"
+    ],
+    "Nyx Nótt": [
+      "Aidan Moffat",
+      "Lucky Pierre",
+      "Nyx Nótt"
+    ],
+    "Peter Christopherson": [
+      "Peter Christopherson",
+      "The Threshold HouseBoys Choir"
+    ],
+    "Polygon Window": [
+      "Aphex Twin",
+      "Caustic Window",
+      "Polygon Window",
+      "Power-Pill",
+      "The Tuss"
+    ],
+    "Power-Pill": [
+      "Aphex Twin",
+      "Caustic Window",
+      "Polygon Window",
+      "Power-Pill",
+      "The Tuss"
+    ],
+    "Pye Corner Audio": [
+      "Martin Jenkins",
+      "Pye Corner Audio",
+      "The Head Technician",
+      "The House In The Woods"
+    ],
+    "Pärson Sound": [
+      "International Harvester",
+      "Pärson Sound"
+    ],
+    "Sacher-Pelz": [
+      "Maurizio Bianchi",
+      "Sacher-Pelz"
+    ],
+    "Sacred Tapestry": [
+      "Macintosh Plus",
+      "New Dreams Ltd.",
+      "Sacred Tapestry"
+    ],
+    "Science Fiction Corporation": [
+      "Science Fiction Corporation",
+      "The Vampires Of Dartmoore"
+    ],
+    "Second Hand": [
+      "Chillum (2)",
+      "Second Hand"
+    ],
+    "Silicon Teens": [
+      "Silicon Teens",
+      "The Normal"
+    ],
+    "Sonic Youth": [
+      "Ciccone Youth",
+      "Sonic Youth"
+    ],
+    "Swell Maps": [
+      "Swell Maps",
+      "Swell Maps C21"
+    ],
+    "Swell Maps C21": [
+      "Swell Maps",
+      "Swell Maps C21"
+    ],
+    "The Flu (5)": [
+      "Hilt",
+      "The Flu (5)"
+    ],
+    "The Head Technician": [
+      "Martin Jenkins",
+      "Pye Corner Audio",
+      "The Head Technician",
+      "The House In The Woods"
+    ],
+    "The House In The Woods": [
+      "Martin Jenkins",
+      "Pye Corner Audio",
+      "The Head Technician",
+      "The House In The Woods"
+    ],
     "The Justified Ancients Of Mu Mu": [
       "The Justified Ancients Of Mu Mu",
       "The KLF",
@@ -70917,14 +71447,58 @@
       "The KLF",
       "The Timelords"
     ],
+    "The Normal": [
+      "Silicon Teens",
+      "The Normal"
+    ],
+    "The Pressure Company": [
+      "Cabaret Voltaire",
+      "The Pressure Company"
+    ],
+    "The Threshold HouseBoys Choir": [
+      "Peter Christopherson",
+      "The Threshold HouseBoys Choir"
+    ],
     "The Timelords": [
       "The Justified Ancients Of Mu Mu",
       "The KLF",
       "The Timelords"
+    ],
+    "The Tuss": [
+      "Aphex Twin",
+      "Caustic Window",
+      "Polygon Window",
+      "Power-Pill",
+      "The Tuss"
+    ],
+    "The Vampires Of Dartmoore": [
+      "Science Fiction Corporation",
+      "The Vampires Of Dartmoore"
+    ],
+    "Time Machines": [
+      "Coil",
+      "ELpH",
+      "Time Machines"
+    ],
+    "Tuxedomoon": [
+      "Joeboy",
+      "Tuxedomoon"
+    ],
+    "V/Vm": [
+      "CV[ev]",
+      "V/Vm"
+    ],
+    "Warsaw (3)": [
+      "Joy Division",
+      "Warsaw (3)"
+    ],
+    "William Doyle": [
+      "East India Youth",
+      "William Doyle"
     ]
   },
   "health": {
-    "collectionArtworkMissing": 9,
+    "collectionArtworkMissing": 6,
     "discogsImagesMissing": [
       {
         "artist": "Bomb The Bass",
@@ -70939,20 +71513,6 @@
         "discogsImageMissing": true,
         "discogsFormats": "LP | Single Sided | Promo | White Label",
         "dateAdded": "2020-05-06"
-      },
-      {
-        "artist": "Coil",
-        "album": "The Side Effects Of Life / Love's Secret Demo",
-        "label": "Not On Label (Coil)",
-        "catalogNumber": "1",
-        "format": "LP, Ltd, Unofficial, Gol",
-        "year": "2020",
-        "discogsReleaseId": "15263840",
-        "thumb": "",
-        "display": "",
-        "discogsImageMissing": true,
-        "discogsFormats": "LP | Limited Edition | Unofficial Release | Stereo",
-        "dateAdded": "2020-05-07"
       },
       {
         "artist": "Earthmonkey / Nurse With Wound",
@@ -73172,20 +73732,6 @@
       },
       {
         "artist": "Captain Beefheart And The Magic Band",
-        "album": "Safe As Milk",
-        "label": "Buddah Records, Buddah Records",
-        "catalogNumber": "BDS 5001, BDS-5001",
-        "format": "LP, Album, RE",
-        "year": "",
-        "discogsReleaseId": "1417827",
-        "thumb": "thumb/1417827.webp",
-        "display": "display/1417827.webp",
-        "discogsImageMissing": false,
-        "discogsFormats": "LP | Album | Reissue | Stereo",
-        "dateAdded": "2018-03-07"
-      },
-      {
-        "artist": "Captain Beefheart And The Magic Band",
         "album": "Unconditionally Guaranteed",
         "label": "Mercury",
         "catalogNumber": "SRM-1-709",
@@ -73395,6 +73941,20 @@
         "dateAdded": "2009-11-21"
       },
       {
+        "artist": "Godspeed You Black Emperor!",
+        "album": "Slow Riot For New Zero Kanada E.P.",
+        "label": "Constellation",
+        "catalogNumber": "cst006",
+        "format": "12\", EP, RE, RP, 180",
+        "year": "",
+        "discogsReleaseId": "20492698",
+        "thumb": "thumb/20492698.webp",
+        "display": "display/20492698.webp",
+        "discogsImageMissing": false,
+        "discogsFormats": "12\" | 33 ⅓ RPM | 45 RPM | EP | Reissue | Repress",
+        "dateAdded": "2026-06-28"
+      },
+      {
         "artist": "Ilitch",
         "album": "Periodik Mindtrouble",
         "label": "Oxygene",
@@ -73421,20 +73981,6 @@
         "discogsImageMissing": false,
         "discogsFormats": "12\" | 45 RPM | Limited Edition",
         "dateAdded": "2026-04-26"
-      },
-      {
-        "artist": "Ivor Cutler",
-        "album": "Velvet Donkey",
-        "label": "Virgin",
-        "catalogNumber": "OVED 34",
-        "format": "LP, Album, RE",
-        "year": "",
-        "discogsReleaseId": "2275704",
-        "thumb": "thumb/2275704.webp",
-        "display": "display/2275704.webp",
-        "discogsImageMissing": false,
-        "discogsFormats": "LP | Album | Reissue",
-        "dateAdded": "2020-12-03"
       },
       {
         "artist": "Jane Birkin, Serge Gainsbourg",
@@ -74320,36 +74866,7 @@
       }
     ],
     "missingLabelOrCatalog": [],
-    "incompleteFormats": [
-      {
-        "artist": "Sonic Youth",
-        "album": "Dirty Boots (Plus 5 Live Tracks)",
-        "label": "DGC, DGC",
-        "catalogNumber": "dgc 21634, dgcd 21634",
-        "format": "12\", EP",
-        "year": "1991",
-        "discogsReleaseId": "1191300",
-        "thumb": "",
-        "display": "",
-        "discogsImageMissing": false,
-        "discogsFormats": "",
-        "dateAdded": "2022-09-10"
-      },
-      {
-        "artist": "The Brian Jonestown Massacre",
-        "album": "Give It Back!",
-        "label": "A Records (4)",
-        "catalogNumber": "AUK006LP",
-        "format": "2xLP, Album, RE, RM, RP, Gat",
-        "year": "2022",
-        "discogsReleaseId": "22089133",
-        "thumb": "",
-        "display": "",
-        "discogsImageMissing": false,
-        "discogsFormats": "",
-        "dateAdded": "2022-12-19"
-      }
-    ],
+    "incompleteFormats": [],
     "duplicateReleases": [
       {
         "artist": "Amanda Palmer & Edward Ka-Spel",
@@ -74996,21 +75513,6 @@
         "discogsImageMissing": true,
         "discogsFormats": "LP | Single Sided | Promo | White Label",
         "dateAdded": "2020-05-06",
-        "issueType": "image"
-      },
-      {
-        "artist": "Coil",
-        "album": "The Side Effects Of Life / Love's Secret Demo",
-        "label": "Not On Label (Coil)",
-        "catalogNumber": "1",
-        "format": "LP, Ltd, Unofficial, Gol",
-        "year": "2020",
-        "discogsReleaseId": "15263840",
-        "thumb": "",
-        "display": "",
-        "discogsImageMissing": true,
-        "discogsFormats": "LP | Limited Edition | Unofficial Release | Stereo",
-        "dateAdded": "2020-05-07",
         "issueType": "image"
       },
       {
@@ -77385,21 +77887,6 @@
       },
       {
         "artist": "Captain Beefheart And The Magic Band",
-        "album": "Safe As Milk",
-        "label": "Buddah Records, Buddah Records",
-        "catalogNumber": "BDS 5001, BDS-5001",
-        "format": "LP, Album, RE",
-        "year": "",
-        "discogsReleaseId": "1417827",
-        "thumb": "thumb/1417827.webp",
-        "display": "display/1417827.webp",
-        "discogsImageMissing": false,
-        "discogsFormats": "LP | Album | Reissue | Stereo",
-        "dateAdded": "2018-03-07",
-        "issueType": "year"
-      },
-      {
-        "artist": "Captain Beefheart And The Magic Band",
         "album": "Unconditionally Guaranteed",
         "label": "Mercury",
         "catalogNumber": "SRM-1-709",
@@ -77624,6 +78111,21 @@
         "issueType": "year"
       },
       {
+        "artist": "Godspeed You Black Emperor!",
+        "album": "Slow Riot For New Zero Kanada E.P.",
+        "label": "Constellation",
+        "catalogNumber": "cst006",
+        "format": "12\", EP, RE, RP, 180",
+        "year": "",
+        "discogsReleaseId": "20492698",
+        "thumb": "thumb/20492698.webp",
+        "display": "display/20492698.webp",
+        "discogsImageMissing": false,
+        "discogsFormats": "12\" | 33 ⅓ RPM | 45 RPM | EP | Reissue | Repress",
+        "dateAdded": "2026-06-28",
+        "issueType": "year"
+      },
+      {
         "artist": "Ilitch",
         "album": "Periodik Mindtrouble",
         "label": "Oxygene",
@@ -77651,21 +78153,6 @@
         "discogsImageMissing": false,
         "discogsFormats": "12\" | 45 RPM | Limited Edition",
         "dateAdded": "2026-04-26",
-        "issueType": "year"
-      },
-      {
-        "artist": "Ivor Cutler",
-        "album": "Velvet Donkey",
-        "label": "Virgin",
-        "catalogNumber": "OVED 34",
-        "format": "LP, Album, RE",
-        "year": "",
-        "discogsReleaseId": "2275704",
-        "thumb": "thumb/2275704.webp",
-        "display": "display/2275704.webp",
-        "discogsImageMissing": false,
-        "discogsFormats": "LP | Album | Reissue",
-        "dateAdded": "2020-12-03",
         "issueType": "year"
       },
       {
@@ -78614,36 +79101,6 @@
         "issueType": "year"
       },
       {
-        "artist": "Sonic Youth",
-        "album": "Dirty Boots (Plus 5 Live Tracks)",
-        "label": "DGC, DGC",
-        "catalogNumber": "dgc 21634, dgcd 21634",
-        "format": "12\", EP",
-        "year": "1991",
-        "discogsReleaseId": "1191300",
-        "thumb": "",
-        "display": "",
-        "discogsImageMissing": false,
-        "discogsFormats": "",
-        "dateAdded": "2022-09-10",
-        "issueType": "format"
-      },
-      {
-        "artist": "The Brian Jonestown Massacre",
-        "album": "Give It Back!",
-        "label": "A Records (4)",
-        "catalogNumber": "AUK006LP",
-        "format": "2xLP, Album, RE, RM, RP, Gat",
-        "year": "2022",
-        "discogsReleaseId": "22089133",
-        "thumb": "",
-        "display": "",
-        "discogsImageMissing": false,
-        "discogsFormats": "",
-        "dateAdded": "2022-12-19",
-        "issueType": "format"
-      },
-      {
         "artist": "Amanda Palmer & Edward Ka-Spel",
         "album": "The Hands EP",
         "label": "8ft. Records, Cooking Vinyl",
@@ -79316,11 +79773,11 @@
         "issueType": "duplicate"
       }
     ],
-    "wantArtworkMissing": 63,
+    "wantArtworkMissing": 62,
     "unpricedWants": 92,
-    "unbudgetedWants": 114,
+    "unbudgetedWants": 113,
     "emptyProjects": 0,
-    "collectionExportAgeDays": 53,
-    "collectionExportStale": true
+    "collectionExportAgeDays": 0,
+    "collectionExportStale": false
   }
 }
