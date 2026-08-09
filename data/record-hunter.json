@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T21:54:12.929532+00:00",
+  "generatedAt": "2026-08-09T22:06:14.045542+00:00",
   "source": {
     "collection": "andrewgowans-collection-20260617-1031.csv",
     "wantlist": "andrewgowans-wantlist-20260623-0754.csv"
@@ -70904,6 +70904,23 @@
         "discogsFormats": "LP | Album | Limited Edition",
         "dateAdded": "2026-06-06"
       }
+    ]
+  },
+  "artistAliases": {
+    "The Justified Ancients Of Mu Mu": [
+      "The Justified Ancients Of Mu Mu",
+      "The KLF",
+      "The Timelords"
+    ],
+    "The KLF": [
+      "The Justified Ancients Of Mu Mu",
+      "The KLF",
+      "The Timelords"
+    ],
+    "The Timelords": [
+      "The Justified Ancients Of Mu Mu",
+      "The KLF",
+      "The Timelords"
     ]
   },
   "health": {
