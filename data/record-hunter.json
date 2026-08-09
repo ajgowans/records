@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T20:16:39.282964+00:00",
+  "generatedAt": "2026-08-09T20:24:50.290219+00:00",
   "source": {
     "collection": "andrewgowans-collection-20260617-1031.csv",
     "wantlist": "andrewgowans-wantlist-20260623-0754.csv"
@@ -70673,6 +70673,68 @@
         35
       ]
     ],
+    "artists": [
+      [
+        "Various",
+        153
+      ],
+      [
+        "The Fall",
+        126
+      ],
+      [
+        "David Bowie",
+        120
+      ],
+      [
+        "Nurse With Wound",
+        92
+      ],
+      [
+        "Current 93",
+        91
+      ],
+      [
+        "Kraftwerk",
+        83
+      ],
+      [
+        "The Legendary Pink Dots",
+        76
+      ],
+      [
+        "The Residents",
+        76
+      ],
+      [
+        "Man Or Astro-Man?",
+        68
+      ],
+      [
+        "New Order",
+        65
+      ],
+      [
+        "Coil",
+        62
+      ],
+      [
+        "Aphex Twin",
+        50
+      ],
+      [
+        "Death In June",
+        50
+      ],
+      [
+        "Psychic TV",
+        46
+      ],
+      [
+        "Sonic Youth",
+        46
+      ]
+    ],
     "recent": [
       {
         "artist": "Nurse With Wound",
@@ -70689,6 +70751,20 @@
         "dateAdded": "2026-06-17"
       },
       {
+        "artist": "Cabaret Voltaire",
+        "album": "Red Mecca",
+        "label": "Mute, The Grey Area, Mute, The Grey Area",
+        "catalogNumber": "cabs3lp, CABS3CD",
+        "format": "LP, Album, RM, 180 + CD, Album + RE",
+        "year": "2013",
+        "discogsReleaseId": "4775027",
+        "thumb": "thumb/4775027.webp",
+        "display": "display/4775027.webp",
+        "discogsImageMissing": false,
+        "discogsFormats": "LP | Album | Remastered | Reissue",
+        "dateAdded": "2026-06-15"
+      },
+      {
         "artist": "Edward Ka-Spel",
         "album": "A Monument To Wasted Tears",
         "label": "Not On Label (Edward Ka-Spel Self-released)",
@@ -70703,102 +70779,88 @@
         "dateAdded": "2026-06-15"
       },
       {
-        "artist": "The Fall",
-        "album": "Singles Live Vol. Two 1980-83",
-        "label": "Popstock (2)",
-        "catalogNumber": "POP004V",
-        "format": "LP, Album, Ltd, Yel",
+        "artist": "Cabaret Voltaire",
+        "album": "Radiation",
+        "label": "Room On Fire",
+        "catalogNumber": "ROOM199",
+        "format": "LP, Comp, RE, Unofficial",
         "year": "2026",
-        "discogsReleaseId": "37475070",
-        "thumb": "thumb/37475070.webp",
-        "display": "display/37475070.webp",
+        "discogsReleaseId": "36343294",
+        "thumb": "thumb/36343294.webp",
+        "display": "display/36343294.webp",
         "discogsImageMissing": false,
-        "discogsFormats": "LP | Album | Limited Edition",
-        "dateAdded": "2026-06-06"
+        "discogsFormats": "LP | Compilation | Reissue | Unofficial Release",
+        "dateAdded": "2026-06-13"
       },
       {
-        "artist": "Boards Of Canada",
-        "album": "Inferno",
-        "label": "Warp Records, Music70",
-        "catalogNumber": "WARPLP496X",
-        "format": "2xLP, Album, Red + Flexi, 8\", Shape, S/Sided, Hex",
-        "year": "2026",
-        "discogsReleaseId": "37466013",
-        "thumb": "thumb/37466013.webp",
-        "display": "display/37466013.webp",
+        "artist": "Marilyn Manson",
+        "album": "In The Air Tonight",
+        "label": "Nuclear Blast Records",
+        "catalogNumber": "NB 7432-3",
+        "format": "12\", S/Sided, Single, Ltd, Pic",
+        "year": "2025",
+        "discogsReleaseId": "35139581",
+        "thumb": "thumb/35139581.webp",
+        "display": "display/35139581.webp",
         "discogsImageMissing": false,
-        "discogsFormats": "LP | Album | 8\" | 45 RPM | Shape | Single Sided | Deluxe Edition",
-        "dateAdded": "2026-05-29"
+        "discogsFormats": "12\" | 45 RPM | Single Sided | Single | Limited Edition | Picture Disc | Stereo",
+        "dateAdded": "2026-06-12"
       },
       {
-        "artist": "Tangerine Dream",
-        "album": "Night Trains & Cityscapes",
-        "label": "Invisible Hands Music",
-        "catalogNumber": "IH97T",
-        "format": "12\", RSD, Single, Ltd, Cle",
-        "year": "2026",
-        "discogsReleaseId": "37116090",
-        "thumb": "thumb/37116090.webp",
-        "display": "display/37116090.webp",
+        "artist": "Cabaret Voltaire",
+        "album": "Mix-Up",
+        "label": "Rough Trade",
+        "catalogNumber": "ROUGH 4",
+        "format": "LP, Album, RP, All",
+        "year": "",
+        "discogsReleaseId": "10166579",
+        "thumb": "thumb/10166579.webp",
+        "display": "display/10166579.webp",
         "discogsImageMissing": false,
-        "discogsFormats": "12\" | 45 RPM | Record Store Day | Single | Limited Edition",
-        "dateAdded": "2026-04-19"
+        "discogsFormats": "LP | Album | Repress",
+        "dateAdded": "2026-06-11"
       },
       {
-        "artist": "Slint",
-        "album": "Untitled (Albini Rough Mixes)",
-        "label": "Touch And Go",
-        "catalogNumber": "TG445LP-C1",
-        "format": "12\", RSD, Ltd, RM, Gre",
-        "year": "2026",
-        "discogsReleaseId": "37103787",
-        "thumb": "thumb/37103787.webp",
-        "display": "display/37103787.webp",
+        "artist": "Cabaret Voltaire",
+        "album": "The Crackdown",
+        "label": "Virgin, Virgin, Some Bizzare, Some Bizzare",
+        "catalogNumber": "CV 1, CV DV 1",
+        "format": "LP, Album + 12\", EP + Ltd",
+        "year": "1983",
+        "discogsReleaseId": "111674",
+        "thumb": "thumb/111674.webp",
+        "display": "display/111674.webp",
         "discogsImageMissing": false,
-        "discogsFormats": "12\" | 45 RPM | Record Store Day | Limited Edition | Remastered",
-        "dateAdded": "2026-04-18"
+        "discogsFormats": "LP | Album | 12\" | 45 RPM | EP | Limited Edition",
+        "dateAdded": "2026-06-11"
       },
       {
-        "artist": "David Bowie",
-        "album": "Hallo Spaceboy",
-        "label": "ISO Records, Parlophone, ISO Records, Parlophone",
-        "catalogNumber": "DBSB30, 5021732941978",
-        "format": "12\", EP, RSD, Ltd, RE, Neo",
-        "year": "2026",
-        "discogsReleaseId": "37094016",
-        "thumb": "thumb/37094016.webp",
-        "display": "display/37094016.webp",
+        "artist": "Tokyo Kid Brothers",
+        "album": "The Golden Bat",
+        "label": "Victor",
+        "catalogNumber": "VIH-6007",
+        "format": "LP, Album",
+        "year": "1977",
+        "discogsReleaseId": "11011466",
+        "thumb": "thumb/11011466.webp",
+        "display": "display/11011466.webp",
         "discogsImageMissing": false,
-        "discogsFormats": "12\" | 33 ⅓ RPM | EP | Record Store Day | Limited Edition | Reissue",
-        "dateAdded": "2026-04-18"
+        "discogsFormats": "LP | Album | Stereo",
+        "dateAdded": "2026-06-10"
       },
       {
-        "artist": "13th Floor Elevators",
-        "album": "We Are Not Live",
-        "label": "International Artists, Charly Records",
-        "catalogNumber": "IA-LP8-2",
-        "format": "LP, Album, RSD, Mono, RE",
-        "year": "2026",
-        "discogsReleaseId": "37054473",
-        "thumb": "thumb/37054473.webp",
-        "display": "display/37054473.webp",
+        "artist": "Cabaret Voltaire",
+        "album": "Micro-Phonies",
+        "label": "Virgin, Some Bizzare",
+        "catalogNumber": "CV 2",
+        "format": "LP, Album",
+        "year": "1984",
+        "discogsReleaseId": "53058",
+        "thumb": "thumb/53058.webp",
+        "display": "display/53058.webp",
         "discogsImageMissing": false,
-        "discogsFormats": "LP | Album | Record Store Day | Reissue | Mono",
-        "dateAdded": "2026-04-18"
-      },
-      {
-        "artist": "Nurse With Wound",
-        "album": "1984 (A Happening 2)",
-        "label": "Not On Label",
-        "catalogNumber": "none",
-        "format": "LP, Ltd",
-        "year": "2026",
-        "discogsReleaseId": "36914322",
-        "thumb": "thumb/36914322.webp",
-        "display": "display/36914322.webp",
-        "discogsImageMissing": false,
-        "discogsFormats": "LP | Limited Edition",
-        "dateAdded": "2026-04-11"
+        "discogsFormats": "LP | Album",
+        "dateAdded": "2026-06-09"
       },
       {
         "artist": "Cabaret Voltaire",
@@ -70815,32 +70877,32 @@
         "dateAdded": "2026-06-09"
       },
       {
-        "artist": "Nurse With Wound",
-        "album": "On The Edge Of The Outside: The Lenka Lente Recordings - Volume II",
-        "label": "Vasopressin",
-        "catalogNumber": "VSP003",
-        "format": "LP, Comp, Ltd",
-        "year": "2026",
-        "discogsReleaseId": "36695335",
-        "thumb": "thumb/36695335.webp",
-        "display": "display/36695335.webp",
+        "artist": "Fifty Foot Hose",
+        "album": "Cauldron",
+        "label": "Aguirre Records",
+        "catalogNumber": "ZORN48",
+        "format": "LP, Album, Ltd, RE",
+        "year": "2017",
+        "discogsReleaseId": "10858734",
+        "thumb": "thumb/10858734.webp",
+        "display": "display/10858734.webp",
         "discogsImageMissing": false,
-        "discogsFormats": "LP | Compilation | Limited Edition",
-        "dateAdded": "2026-04-15"
+        "discogsFormats": "LP | Album | Limited Edition | Reissue",
+        "dateAdded": "2026-06-09"
       },
       {
-        "artist": "Cabaret Voltaire",
-        "album": "Radiation",
-        "label": "Room On Fire",
-        "catalogNumber": "ROOM199",
-        "format": "LP, Comp, RE, Unofficial",
+        "artist": "The Fall",
+        "album": "Singles Live Vol. Two 1980-83",
+        "label": "Popstock (2)",
+        "catalogNumber": "POP004V",
+        "format": "LP, Album, Ltd, Yel",
         "year": "2026",
-        "discogsReleaseId": "36343294",
-        "thumb": "thumb/36343294.webp",
-        "display": "display/36343294.webp",
+        "discogsReleaseId": "37475070",
+        "thumb": "thumb/37475070.webp",
+        "display": "display/37475070.webp",
         "discogsImageMissing": false,
-        "discogsFormats": "LP | Compilation | Reissue | Unofficial Release",
-        "dateAdded": "2026-06-13"
+        "discogsFormats": "LP | Album | Limited Edition",
+        "dateAdded": "2026-06-06"
       }
     ]
   },
