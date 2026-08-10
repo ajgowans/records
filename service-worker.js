@@ -1,4 +1,4 @@
-const CACHE='record-hunter-2026-08-10T00-11-08';
+const CACHE='record-hunter-2026-08-10T00-49-10';
 const SHELL=['./','./index.html','./data/record-hunter.json','./manifest.webmanifest','./assets/icons/favicon-32.png','./assets/icons/icon-192.png','./assets/icons/icon-512.png'];
 self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(SHELL)).then(()=>self.skipWaiting())));
 self.addEventListener('activate',event=>event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(key=>key!==CACHE).map(key=>caches.delete(key)))).then(()=>self.clients.claim())));
