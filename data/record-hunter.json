@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T00:49:10.592210+00:00",
+  "generatedAt": "2026-08-10T00:49:43.273048+00:00",
   "source": {
     "collection": "andrewgowans-collection-20260809-2303.csv",
     "wantlist": "andrewgowans-wantlist-20260623-0754.csv"
@@ -79591,14 +79591,14 @@
         "artist": "The Fall",
         "album": "I Wake Up In The City",
         "label": "Cog Sinister",
-        "catalogNumber": "COGGZ1537",
-        "format": "7\", Single, Ltd, RE, RM, Whi",
+        "catalogNumber": "COGGZ153412",
+        "format": "12\", Single, Ltd, Whi",
         "year": "2026",
-        "discogsReleaseId": "37896084",
-        "thumb": "thumb/37896084.webp",
-        "display": "display/37896084.webp",
+        "discogsReleaseId": "37875096",
+        "thumb": "thumb/37875096.webp",
+        "display": "display/37875096.webp",
         "discogsImageMissing": false,
-        "discogsFormats": "7\" | 45 RPM | Single | Limited Edition | Reissue | Remastered | Stereo",
+        "discogsFormats": "12\" | 45 RPM | Single | Limited Edition | Stereo",
         "speeds": [
           "45 RPM"
         ],
@@ -79608,14 +79608,14 @@
         "artist": "The Fall",
         "album": "I Wake Up In The City",
         "label": "Cog Sinister",
-        "catalogNumber": "COGGZ153412",
-        "format": "12\", Single, Ltd, Whi",
+        "catalogNumber": "COGGZ1537",
+        "format": "7\", Single, Ltd, RE, RM, Whi",
         "year": "2026",
-        "discogsReleaseId": "37875096",
-        "thumb": "thumb/37875096.webp",
-        "display": "display/37875096.webp",
+        "discogsReleaseId": "37896084",
+        "thumb": "thumb/37896084.webp",
+        "display": "display/37896084.webp",
         "discogsImageMissing": false,
-        "discogsFormats": "12\" | 45 RPM | Single | Limited Edition | Stereo",
+        "discogsFormats": "7\" | 45 RPM | Single | Limited Edition | Reissue | Remastered | Stereo",
         "speeds": [
           "45 RPM"
         ],
